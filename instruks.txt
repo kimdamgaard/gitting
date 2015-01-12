@@ -1,1 +1,6 @@
 Ny test fil
+
+med flere linier
+
+....
+
